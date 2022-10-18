@@ -1,0 +1,26 @@
+body {
+    background-color: gray;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: aqua;
+}
+
+.clickBtn {
+    background-color: rgb(85, 223, 193);
+    color: blue;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 12px;
+    font-size: 30px;
+    text-align: center;
+}
