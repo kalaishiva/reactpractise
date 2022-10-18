@@ -15,7 +15,7 @@ h1 {
     color: aqua;
 }
 
-.clickBtn {
+.Btn {
     background-color: rgb(85, 223, 193);
     color: blue;
     padding: 15px 30px;
@@ -23,4 +23,5 @@ h1 {
     border-radius: 12px;
     font-size: 30px;
     text-align: center;
+    margin-bottom: 10px;
 }
